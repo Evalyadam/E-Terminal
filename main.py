@@ -61,7 +61,7 @@ def main():
         
         
         if user_input.lower() == "Specter":
-            print("2003, Josh Davidson and his cousin, Oliver Dhamer, decided to work together to make a terminal. They would regret their actions; As they would get weird nightmares day. after. day. They would delete the project and distribute it through github to get rid of the curse.")
+            print("2010, Josh Davidson and his cousin, Oliver Dhamer, decided to work together to make a terminal. They would regret their actions; As they would get weird nightmares day. after. day. They would delete the project and distribute it through github to get rid of the curse.")
         
         else:
             print("")
