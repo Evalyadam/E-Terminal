@@ -3,7 +3,7 @@
 
 Distribution: You are allowed to distribute copies of the software, unmodified, provided that you give credit to the original author(s).
 
-Modifications: You are allowed to modify the software for private use only. **Modified versions of the software may not be distributed.**
+Modifications: You are allowed to modify the software for private use only.**Modified versions of the software may not be distributed, DLL Extensions are allowed for distribution.** 
 
 Commercial Use: You are allowed to use the software for commercial purposes, provided that you give credit to the original author(s).
 
