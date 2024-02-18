@@ -1,5 +1,5 @@
 # License
-## Version 1.0, February 16th 2024
+## Version 1.1, February 16th 2024
 
 Distribution: You are allowed to distribute copies of the software, unmodified, provided that you give credit to the original author(s).
 
